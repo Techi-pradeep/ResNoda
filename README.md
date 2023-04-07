@@ -1,3 +1,3 @@
-commands to run after downloading files 
+commands to run after downloading files :
 npm install,
 npm run dev
